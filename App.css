@@ -1,0 +1,40 @@
+.button{
+  display: flex;
+  justify-content: end;
+}
+.button-2{
+  margin-right: 100px;
+  margin-top: 30px;
+  border-radius: 8px;
+    width: 10%;
+    height: 42px;
+}
+.container-lg{
+  background-color: black;
+  margin-top: 20px;
+  height: 247px;
+}
+.container{
+  color: black;
+  margin-top: 20px;
+  height: 247px;
+
+}
+.shop{
+  color: white;
+  margin-left: 40%;
+  padding-top: 70px;
+  margin-top: 12px;
+  font-weight: bold;
+}
+.para{
+  color:white;
+  margin-left: 40%;
+  margin-top: 12px;
+}
+.card-img-top{
+  padding: 1rem;
+}
+.title{
+  margin-top: 65px;
+}
